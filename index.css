@@ -1,0 +1,20 @@
+/* Shelf Codes */
+.purchase-window {
+    display: flex;
+    outline: solid blue;
+    height: 500px;
+    width: 100%;
+}
+
+.items {
+    width: 50%;
+    height: inherit;
+    outline: solid orange;
+    text-align: center;
+}
+
+.items_space {
+    outline: solid green;
+    width: fit-content;
+    text-align: center;
+}
